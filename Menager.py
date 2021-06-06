@@ -4,7 +4,7 @@ print('''we're currently  in''', directory)
 while True:
     inp = input()
     if (inp == '/makedir'):
-        print('how do you wanna name the folder?\n)
+        print('how do you wanna name the folder?\n')
         r = input()
         str(r)
         try:
