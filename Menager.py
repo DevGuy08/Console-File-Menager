@@ -22,7 +22,7 @@ while True:
         except:
             print('impossible find the file!')
     elif (inp == '/rename'):
-        r = input('which file do you wanna delete?\n')
+        r = input('which file do you wanna rename?\n')
         str(r)
         ri = input('and what name do you want to change it to?\n')
         str(ri)
